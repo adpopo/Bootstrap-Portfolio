@@ -33,11 +33,25 @@ nav a {
 }
 
 .container-fluid{
-  background: #fff;
   margin-left: 5%;
   max-width: 90%;
 }
 
 .img-responsive{
   padding-bottom: 20px;
+}
+
+.mainpart{
+  background: #fff;
+}
+
+#sidebar{
+  background-color: #fff;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.btn-primary{
+  background: #FF4242;
+  border-color: #FF4242;
 }
