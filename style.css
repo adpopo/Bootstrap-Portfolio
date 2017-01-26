@@ -1,0 +1,43 @@
+body {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  color: #777;
+  line-height: 34px;
+  background-color: #F0F2EB;
+}
+
+footer{
+  background-color: #FF4242;
+  color: #fff;
+  width: 100%;
+  height: 55px;
+  font-size: 10pt;
+  padding: 10px;
+  text-align: center;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+  position: fixed;
+  bottom: 0pt;
+  left: 0pt;
+}
+
+nav a {
+  color: #FF4242;
+  text-decoration: none;
+  line-height: 18px;
+}
+
+.navbar-default .navbar-brand{
+  color: #fff;
+  background: #FF4242;
+}
+
+.container-fluid{
+  background: #fff;
+  margin-left: 5%;
+  max-width: 90%;
+}
+
+.img-responsive{
+  padding-bottom: 20px;
+}
